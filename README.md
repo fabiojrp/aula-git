@@ -1,3 +1,3 @@
-U: arquivo não rastreado (untracked)
-A: added
-M: modificado
+- U: arquivo não rastreado (untracked)
+- A: added
+- M: modificado
