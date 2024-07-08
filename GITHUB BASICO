@@ -5,13 +5,13 @@ gh auth login -h github.com
 
 
 # Criar repositório
-1 - git init (cria repositório local)
+1 - git init (cria repositório local) ou git clone
 2 - git add . (seleciona todo os arquivos p serem enviados para commit)
 3 - git commit -m "mensagem"
 4 - git remote add origin url-http
 5 - git push -u origin main (só na 1a vez)
 6 - git push (nas demais vezes)
-
+7 - git pull pra download
 
 echo "# fundamentosjs" >> README.md
 git init
