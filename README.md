@@ -7,8 +7,8 @@
 >Códigos *blockquote*, **negrito**, _itálico_ e <https://links.com> funcionam aqui.
 
 ### Programação
-~~~javascript
-Esta é uma linha de código em Javascript.
+~~~java
+Esta é uma linha de código em Java.
 ~~~
 
 ~~~php
